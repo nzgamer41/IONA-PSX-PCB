@@ -1,0 +1,7 @@
+Name,Jaycar Part Number,Quantity
+Arduino Uno R3 or compatible (SMD or the older style is fine),XC4410(I recommend getting a different one, this is $40NZD which is pricey compared to other compatibles),x1
+Arduino Stackable Header,HM3208,x1
+28 Pin Header Terminal Strip,HM3211,x1
+(Optional, wire a female ps2 controller connector to this part to avoid having to mutilate a PSX controller)40 Pin Female Header Strip,HM3230,x1
+USB TYPE B PC MOUNT Socket,PS0920,x1
+(Optional, only if you don't have one lying around)USB 2.0 Cable A to B 3m,WC7701,x1
